@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+}
+.navbar-start{
+    top: 0;
+    position: sticky;
+    z-index: 99;
+    background-color: #FFFFFF;
+}
+.icon-user{
+    margin-left: 35%;
+}
